@@ -15,7 +15,7 @@
   "dependencies": {
     "cron": "^1.7.1",
     "express": "^4.17.1",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.1"
